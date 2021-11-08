@@ -1,0 +1,7 @@
+.done {
+    text-decoration: line-through;
+    color: red;
+}
+.notDone {
+    text-decoration: none;
+}
